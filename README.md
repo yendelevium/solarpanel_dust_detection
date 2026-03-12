@@ -1,4 +1,4 @@
-# Solar Panel Health Monitoring & Defect Detection
+# Solar Panel Dust Detection
 
 This project leverages deep learning to automate the inspection of solar panels, identifying dust accumulation that reduces energy efficiency. It features a complete pipeline from model training (using transfer learning) to real-time video inference with dynamic Region of Interest (ROI) tracking.
 
